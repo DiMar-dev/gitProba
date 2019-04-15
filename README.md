@@ -1,0 +1,2 @@
+# gitProba
+prva vezba
