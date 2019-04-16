@@ -1,2 +1,0 @@
-# gitProba
-prva vezba
